@@ -1,5 +1,5 @@
 # PortScan
-Um simples Scan de portas desenvolvido em c
+Um simples Scan de portas desenvolvido em C
 
 Este programa executa um ataque SYN Flood para conseguir encontrar as portas abertas em um host. 
 
