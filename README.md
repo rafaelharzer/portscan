@@ -9,10 +9,10 @@ Para baixar o repositorio basta dar o comando:
 git clone https://github.com/rafaelharzer/portscan
 
 Entre no diretorio com:
-  cd portscan
+ > cd portscan
   
 Para executar basta estar em um linux e compilar o codigo com:
-  gcc -o PortScan PortScan.c
+>  gcc -o PortScan PortScan.c
  
  Em seguida execute o programa com:
-  ./PortScan
+>  ./PortScan
